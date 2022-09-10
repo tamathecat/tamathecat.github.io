@@ -6,7 +6,7 @@ layout: single
 
 契子 by 易修罗
 
-### Summary
+### Summary (from Novel Updates)
 On the distant Tianxiu Planet, there exists a group of unusual and intelligent beings. They consist of neither children nor elders. They have neither birth nor real death. They are born into the world through an extremely special process and have managed to keep their fundamental memories of survival through their endless reincarnations.
 
 They are the Tianxiu people.
