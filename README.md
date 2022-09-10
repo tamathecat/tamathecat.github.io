@@ -1,2 +1,2 @@
-# tamathecat.github.io
+# Tama the Cat
 A repository for fan translations.
