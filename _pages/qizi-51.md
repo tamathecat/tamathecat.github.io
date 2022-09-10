@@ -204,5 +204,6 @@ The rays of light that passed through the window pane must detour around God, an
 Yet, because they had superior vision, he was able to capture each and every small detail, each and every small movement, very well.
 
 Because he was relaxed, his soul fragments were carefreely drifting through his whole body, but at that moment, they abruptly and intensely gathered together; they striked, ramming into Ying Feng’s heart–a long, long, very long time ago, it seemed like someone else also used to give him this same kind of smile, and had also said these words to him:
+
 —If you aren’t capable of understanding human emotions, then at the very least try to trust God. God loves everyone, and will also love you. As long as you believe in him, his love will definitely reach the depths of your heart, letting you become just like an ordinary man that can learn how to love.
 
