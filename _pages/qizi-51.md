@@ -36,7 +36,7 @@ Xing Lou, now satisfied, said, “Thanks.”
 
 Zhu Yue was once stopped by his “friendly” school classmates for a heart-to-heart chat. In these ten years, his experience with this kind of matter was nothing out of the ordinary–not only seniors, but even juniors often partook in looking for him to stir up trouble.
 
-And so, for many years, he accumulated much of this sole experience–of shutting his eyes, staying silent, and enduring–waiting for the other party to finish venting and go away. However, even to this day, he is still waiting.
+And so, for many years, he accumulated much of this sole experience–of shutting his eyes, staying silent, and enduring–waiting for the other party to finish venting and go away. However, even to this day, he was still waiting.
 
 Following a few muffled sounds, his surroundings restored to its original peace. He sneakily opened his eyes and the reflection of a pair of shoes entered his view while next to them, the few people that just bullied him lay scattered and sprawled on the ground.
 
@@ -61,6 +61,7 @@ Zhen He snorted, “What do you think?”
 Zhen He reckoned, “At present, the odds are definitely not in my favor, but if he were still a Nestling, it’s possible it’d be a tie.”
 
 Zhu Yue buried his head deeply, “You are so strong, also so rich, it’s really envious.”
+
 Zhen He couldn’t see anything special about this person. If being especially weak can be considered special, it’s also worth noting that he also doesn’t seem to be acting. The mission from Xing Lou can end here, maybe he (Xing Lou) saw wrong.
 
 As he was about to leave, he heard Zhu Yue say, “I want to buy something.”
@@ -92,6 +93,7 @@ Zhu Yue placed the calming soul stone back in its original place, “Once you ha
 “Whether it’s yours or mine, both items are classified prohibited materials, it’s possible that dimensional transportation will be blocked by the system’s safety checks.”
 
 “If that’s what you are worried about, it’s not a big deal. I know the main person in charge of Tianyuan very well, there have never been any issues with the goods I’ve brought out!”
+
 “No, I can’t afford to take any risks.” Zhu Yue insisted, “This is my requirement, if you want the calming soul stone, then you must personally deliver it for this exchange!”
 
 Zhen He helplessly nodded, “Fine. I’ll go prepare what you want, please take good care of my reward, I’ll personally come get it.”
@@ -117,7 +119,6 @@ The principal slowly paced about, getting lost in his memories, “I know this n
 “There was once that they had to sneak behind the adults, looking for a hide-out to host their so-called Anti-Adult Ceremony Coalition Convention. Ling Xing was dragged into it as well. So just like that, on that day, a mishap occurred where one person’s hormones went out of control, affecting another, then another, until every single one of them went out of control. Taking up whatever weapons or fists they have, they turned to kill their fellow comrades.”
 
 “Ling Xing miraculously wasn’t affected. However, trapped in a corner, he witnessed this scene unravel. On the second day, when the adults finally found them, half of the group was dead, and only Ling Xing was the sole Nestling who survived.”
-
 
 “In the aftermath of this, the principal and several others in management resigned out of taking responsibility, and it was from that moment on that I was to serve as the stand-in principal. Ling Xing, too, was also no longer my student.”
 
@@ -206,4 +207,3 @@ Yet, because they had superior vision, he was able to capture each and every sma
 Because he was relaxed, his soul fragments were carefreely drifting through his whole body, but at that moment, they abruptly and intensely gathered together; they striked, ramming into Ying Feng’s heart–a long, long, very long time ago, it seemed like someone else also used to give him this same kind of smile, and had also said these words to him:
 
 —If you aren’t capable of understanding human emotions, then at the very least try to trust God. God loves everyone, and will also love you. As long as you believe in him, his love will definitely reach the depths of your heart, letting you become just like an ordinary man that can learn how to love.
-
