@@ -28,7 +28,7 @@ Xing Lou shook his head with laughter, “This person is so naive it hurts.”
 
 After replying back with these two words, he promptly one-sidedly terminated the connection and soon after dialed Zhen He’s line.
 
-“Xuezhang, I wanted you to help me investigate Zhu Yue’s background, you didn’t forget, did you?”
+“Senior, I wanted you to help me investigate Zhu Yue’s background, you didn’t forget, did you?”
 
 “I really don’t understand, for someone like him, what does he have that’s worth noting? Nevermind, whatever. I’ll go do it.”
 
