@@ -2,6 +2,7 @@
 permalink: /qizi/51
 title: "51"
 layout: single
+date: 2022-09-10
 ---
 
 When Xing Lou saw the words on the screen, a smile escaped his lips, and after pondering for a bit, he promptly sent a reply.
@@ -112,7 +113,7 @@ The principal’s heart tightened, “Why do you ask?”
 
 “Because…”, Ling Xiao hesitated a bit. The name had been on his mind since the last time he came across it. “On the field trip to the Base, Dr. Zhi Shang said that the people who wake up in the energy capsules and have the same last as us can be considered brothers and sisters like in other races. When I was at the library, I saw that a survivor of the Ember Massacre Incident had the same last name as me, and according to Dr. Shi Shang’s words, he’s like my older brother, so I really want to learn more about him.”
 
-The principal slowly paced about, getting lost in his memories, “I know this name very well because Ling Xing that year was among my first class of students when I arrived at Bikong. Back then, I wasn’t a principal yet and they were still new Nestlings. I watched over them from first to tenth grade, reliving the school days with them.
+The principal slowly paced about, getting lost in his memories, “I know this name very well because Ling Xing that year was among my first class of students when I arrived at Bikong. Back then, I wasn’t a principal yet and they were still new Nestlings. I watched over them from first to tenth grade, reliving the school days with them."
 
 “In that first class of students, many of them awakened at only nine years in Nestling stage, and by ten years, only Ling Xing had not awakened. Although their bodies awakened early, they collectively tried to resist the Adult Ceremony, so much so that they even formed an Anti-Adult Ceremony Coalition. Furthermore, their efforts extended onto the school’s internet platforms, tirelessly enticing even more Nestlings to join their party.”
 
@@ -124,7 +125,7 @@ The principal slowly paced about, getting lost in his memories, “I know this n
 
 Ling Xiao had already personally seen the departure of two souls; both left a very deep impression on him. It’s hard to imagine what it was like for Ling Xing who was hiding in the corner, watching his good friends and long-time classmates pull out their knives to face one another, blood splattering, witnessing a constant stream of souls departing—how must he have felt? But he also didn’t understand the principal’s last few words.
 
-“No longer your student? Why?”
+“No longer your student? Why is that?”
 
 “The survivors of the incident all had varying degrees of psychological shock, Ling Xing was no different. He could neither accept the Adult Ceremony, nor face his former classmates, therefore not long after, he dropped out.”
 
@@ -178,7 +179,7 @@ Ling Xiao said grudgingly, “There were special circumstances yesterday, I’m 
 
 “Wait. I’ll bring you there.”
 
-Due to paying a large sum of money because of the traffic incident, Ling Xiao had put on a surprisingly trustworthy face, so when Ying Feng arrived to pick him up, he perfunctorily and obediently sat in the driver’s seat, clasping an old book to his chest.
+Due to paying a large sum of money because of the traffic incident, Ling Xiao had put on a surprisingly trustworthy face, so when Ying Feng arrived to pick him up, he perfunctorily and obediently sat in the passenger's seat, clasping an old book to his chest.
 
 “What’s that?”
 
