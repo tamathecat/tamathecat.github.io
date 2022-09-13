@@ -30,6 +30,9 @@ defaults:
     values:
       layout: single
 
+twitter:
+  username: "mmistakes-theme"
+
 plugins:
   - jekyll-include-cache
 
