@@ -1,7 +1,8 @@
 ---
-permalink: /qizi/
 title: "Qizi"
-layout: single
+layout: collection
+permalink: /qizi/
+collection: qizi
 ---
 
 契子 by 易修罗
@@ -18,5 +19,4 @@ While the defeated one will be referred to as — Qizi.
 ### Before Chapter 51
 [Novel Updates](https://www.novelupdates.com/series/qizi/)
 
-### Chapters
-[Chapter 51](/qizi/51)
+
