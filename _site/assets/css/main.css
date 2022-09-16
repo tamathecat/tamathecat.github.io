@@ -1280,7 +1280,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 .tooltip { position: relative; display: inline-block; border-bottom: 1px dotted white; /* Dots */ }
 
 /* Tooltip text */
-.tooltip .tooltiptext { visibility: hidden; background-color: gray; color: #fff; text-align: center; padding: 5px 0; border-radius: 6px; font-size: 14px; /* Position the tooltip text */ position: absolute; z-index: 1; width: 120px; bottom: 100%; left: 50%; margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */ }
+.tooltip .tooltiptext { visibility: hidden; background-color: gray; color: #fff; text-align: center; padding: 5px 5px 5px 5px; border-radius: 6px; font-size: 12px; /* Position the tooltip text */ position: absolute; z-index: 1; width: 180px; bottom: 100%; left: 50%; margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */ }
 
 /* Show the tooltip text on hover */
 .tooltip:hover .tooltiptext { visibility: visible; }

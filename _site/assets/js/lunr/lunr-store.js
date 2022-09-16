@@ -10,4 +10,10 @@ var store = [{
         "tags": [],
         "url": "/qizi/52",
         "teaser": null
+      },{
+        "title": "Chapter 53",
+        "excerpt":"When Ling Xiao and Ying Feng passed by a certain dorm room, a loud noise suddenly erupted from inside. Ling Xiao instantly went on guard and stepped to the side; he even assumed a fighting posture, waiting for an enemy to burst forth. But so far, after that one cry,...","categories": [],
+        "tags": [],
+        "url": "/qizi/53",
+        "teaser": null
       }]
