@@ -30,13 +30,18 @@ search: false
   /* Position the tooltip text */
   position: absolute;
   z-index: 1;
-  width: 180px;
+  width: 150px;
   bottom: 100%;
   left: 50%;
-  margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
+  margin-left: -50px; /* Use half of the width (120/2 = 60), to center the tooltip */
 }
 
 /* Show the tooltip text on hover */
 .tooltip:hover .tooltiptext {
   visibility: visible;
+}
+
+.note {
+  font-weight: bold;
+  color: #89cff0
 }
