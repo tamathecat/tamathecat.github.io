@@ -14,7 +14,7 @@ They are the Tianxiu people.
 
 For every Tianxiu person, if they find someone they like and want to bind as partners with each other — then they would have to go through a life or death Adult Ceremony. The winner of the ceremony will become the absolute dominant in this spousal relationship.
 
-While the defeated one will be referred to as — Qizi.
+While the defeated one will be referred to as -- Qizi.
 
 Please support the author! ✨ [JJWXC](http://www.jjwxc.net/onebook.php?novelid=2149791)
 
