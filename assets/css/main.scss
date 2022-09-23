@@ -34,6 +34,10 @@ search: false
   bottom: 100%;
   left: 50%;
   margin-left: -50px; /* Use half of the width (120/2 = 60), to center the tooltip */
+
+  a {
+    color: #89cff0
+  }
 }
 
 /* Show the tooltip text on hover */

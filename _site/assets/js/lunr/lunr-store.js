@@ -16,4 +16,10 @@ var store = [{
         "tags": [],
         "url": "/qizi/53",
         "teaser": null
+      },{
+        "title": "Chapter 54",
+        "excerpt":"The author has something to say: Before, there were always readers who questioned why injected-with-Embers Ling Xiao couldn’t beat Ying Feng, yet yesterday’s injected-with-Embers Zhu Yue could beat Zhen He; this point has already been very clearly addressed in the original text. By the time Ling Xiao faced Ying Feng,...","categories": [],
+        "tags": [],
+        "url": "/qizi/54",
+        "teaser": null
       }]
