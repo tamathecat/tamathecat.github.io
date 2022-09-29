@@ -1,6 +1,6 @@
 var store = [{
         "title": "Chapter 51",
-        "excerpt":"Small hint: Tianxiu Planet has two large influential and evenly matched adversaries -- the military and the church. When Xing Lou saw the words on the screen, a smile escaped his lips, and after pondering for a bit, he promptly sent a reply. —You guessed it. As expected! Heng He’s...","categories": [],
+        "excerpt":"Small hint: Tianxiu Planet has two large influential and evenly matched adversaries – the military and the church. When Xing Lou saw the words on the screen, a smile escaped his lips, and after pondering for a bit, he promptly sent a reply. —You guessed it. As expected! Heng He’s...","categories": [],
         "tags": [],
         "url": "/qizi/51",
         "teaser": null
