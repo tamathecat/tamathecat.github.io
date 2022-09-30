@@ -22,4 +22,10 @@ var store = [{
         "tags": [],
         "url": "/qizi/54",
         "teaser": null
+      },{
+        "title": "Chapter 55",
+        "excerpt":"After some negotiation, the military still did not agree to Ying Feng’s request of directly reporting to the Gene Center. They had no choice but to drop Li Fei Sha off at the designated station halfway and then let the military aircraft take them to that destination under complete secrecy...","categories": [],
+        "tags": [],
+        "url": "/qizi/55",
+        "teaser": null
       }]
