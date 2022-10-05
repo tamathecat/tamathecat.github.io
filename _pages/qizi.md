@@ -18,7 +18,7 @@ While the defeated one will be referred to as -- Qizi.
 
 Please support the author! ✨ [JJWXC](http://www.jjwxc.net/onebook.php?novelid=2149791)
 
->Tags: dubcon, noncon, nothing explicit but implied, maybe more to come as more chapters are out
+>Tags so far: dubcon, noncon, nothing explicit
 
 ### Before Chapter 51
 [Novel Updates](https://www.novelupdates.com/series/qizi/)
