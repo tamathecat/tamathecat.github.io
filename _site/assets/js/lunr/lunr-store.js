@@ -1,6 +1,6 @@
 var store = [{
         "title": "Qizi / 51",
-        "excerpt":"Tip: Tianxiu Planet has two large influential and evenly matched adversaries – the military and the church. When Xing Lou saw the words on the screen, a smile escaped his lips, and after pondering for a bit, he promptly sent a reply. —You guessed it. As expected! Heng He’s eyes...","categories": [],
+        "excerpt":"Tip: Tianxiu has two large influential and evenly matched adversaries – the military and the church. When Xing Lou saw the words on the screen, a smile escaped his lips. After pondering for a bit, he promptly sent a reply. —Your conjecture is correct. As expected! Heng He’s eyes lit...","categories": [],
         "tags": [],
         "url": "/qizi/51",
         "teaser": null
@@ -33,5 +33,11 @@ var store = [{
         "excerpt":"The author has something to say: Some content is inconvenient to write in text, so the settings will be supplemented here. Qizhu’s abilities are locked by two values, affections value and spiritual strength. Spiritual Vision, spiritual strength &gt;= 5, detect Qizi’s location. Spiritual Communication, spiritual strength &gt;= 10, affections value...","categories": [],
         "tags": [],
         "url": "/qizi/56",
+        "teaser": null
+      },{
+        "title": "Qizi / 57",
+        "excerpt":"Ever since he discovered Ling Xiao’s unspeakable “secret”, Ying Feng’s very few hobbies grew by one more. Before he gets to try out his hobby, he needs to go through a strong and rebellious Ling Xiao each time. Sadly, Ling Xiao was no match for Ying Feng in all aspects....","categories": [],
+        "tags": [],
+        "url": "/qizi/57",
         "teaser": null
       }]
