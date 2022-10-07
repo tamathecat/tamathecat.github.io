@@ -36,7 +36,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Qizi / 57",
-        "excerpt":"Ever since he discovered Ling Xiao’s unspeakable “secret”, Ying Feng’s very few hobbies grew by one more. Before he gets to try out his hobby, he needs to go through a strong and rebellious Ling Xiao each time. Sadly, Ling Xiao was no match for Ying Feng in all aspects....","categories": [],
+        "excerpt":"Ever since he discovered Ling Xiao’s unspeakable “secret”, Ying Feng’s very few hobbies grew by one more. Before he gets to try out his hobby, he needs to go through a strong and rebellious Ling Xiao each time. Sadly, Ling Xiao is no match for Ying Feng in all aspects....","categories": [],
         "tags": [],
         "url": "/qizi/57",
         "teaser": null
