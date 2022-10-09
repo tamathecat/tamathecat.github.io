@@ -36,7 +36,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Qizi / 57",
-        "excerpt":"t/n: Trying a new style where I changed more passive voice -&gt; active voice since that reads better in English. Trying to also capture the meaning more rather than word by word, and I haven’t pointed out all the smaller sections yet, maybe in time. Ever since he discovered Ling...","categories": [],
+        "excerpt":"Ever since he discovered Ling Xiao’s unspeakable “secret”, Ying Feng’s very few hobbies grew by one more, but before he gets to show off his hobby, he needs to go through a strong and rebellious Ling Xiao each time. Sadly, Ling Xiao is no match for Ying Feng in all...","categories": [],
         "tags": [],
         "url": "/qizi/57",
         "teaser": null

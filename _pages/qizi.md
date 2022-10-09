@@ -16,9 +16,12 @@ For every Tianxiu person, if they find someone they like and want to bind as par
 
 While the defeated one will be referred to as -- Qizi.
 
-Please support the author! ✨ [JJWXC](http://www.jjwxc.net/onebook.php?novelid=2149791)
+### ✨ Please Support the Author! ✨
+I've bought the whole story already, and if you have read this far, you probably like it too! It's only ~$2 USD total, please support the author if you can! If you are intimidated by JJWXC, please look up guides that teach you how to navigate it ^^
 
->Tags so far: dubcon, noncon, nothing explicit
+[JJWXC Link](http://www.jjwxc.net/onebook.php?novelid=2149791)
+
+>Warning tags so far: dubcon, noncon, nothing explicit
 
 ### Before Chapter 51
 [Novel Updates](https://www.novelupdates.com/series/qizi/)
