@@ -1,6 +1,6 @@
 var store = [{
         "title": "Qizi / 51",
-        "excerpt":"Tip: Tianxiu has two large influential and evenly matched adversaries – the military and the church. When Xing Lou saw the words on the screen, a smile escaped his lips. After pondering for a bit, he promptly sent a reply. —Your conjecture is correct. As expected! Heng He’s eyes lit...","categories": [],
+        "excerpt":"Tip: Tianxiu has two large influential and evenly matched adversaries – the military and the church. When Xing Lou saw the words on the screen, a smile escaped his lips. After pondering for a bit, he promptly sent a reply. ——Your conjecture is correct. As expected! Heng He’s eyes lit...","categories": [],
         "tags": [],
         "url": "/qizi/51",
         "teaser": null
@@ -36,7 +36,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Qizi / 57",
-        "excerpt":"Ever since he discovered Ling Xiao’s unspeakable “secret”, Ying Feng’s very few hobbies grew by one more, but before he gets to show off his hobby, he needs to go through a strong and rebellious Ling Xiao each time. Sadly, Ling Xiao is no match for Ying Feng in all...","categories": [],
+        "excerpt":"Ever since he discovered Ling Xiao’s unspeakable “secret”, Ying Feng very few hobbies grew by one more. Before he gets to show off his hobby though, he needs to go through strong resistance from Ling Xiao each time. Sadly, Ling Xiao is no match for Ying Feng in all aspects....","categories": [],
         "tags": [],
         "url": "/qizi/57",
         "teaser": null
