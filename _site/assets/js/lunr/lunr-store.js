@@ -1,6 +1,6 @@
 var store = [{
         "title": "Qizi / 51",
-        "excerpt":"Tip: Tianxiu has two large influential and evenly matched adversaries – the military and the church. When Xing Lou saw the words on the screen, a smile escaped his lips. After pondering for a bit, he promptly sent a reply. ——Your conjecture is correct. As expected! Heng He’s eyes lit...","categories": [],
+        "excerpt":"Tip: Tianxiu has two large influential and evenly matched adversaries——the military and the church. When Xing Lou saw the words on the screen, a smile escaped his lips. After pondering for a bit, he promptly sent a reply. ——Your conjecture is correct. As expected! Heng He’s eyes lit up. He...","categories": [],
         "tags": [],
         "url": "/qizi/51",
         "teaser": null
@@ -45,5 +45,11 @@ var store = [{
         "excerpt":"The author has something to say: The characters in the text have something to say: Ling Xiao: I am Ling Xiao, not Ling Feng. Ying Feng: I am Ying Feng (wind)Ying (迎) is not the same Ying (嬴) in Ying Feng's actual name, the former changes the meaning of Ying...","categories": [],
         "tags": [],
         "url": "/qizi/58",
+        "teaser": null
+      },{
+        "title": "Qizi / 59",
+        "excerpt":"The visions of the two people went dark at the same time. At a loss, Ling Xiao took off his blindfold and opened the door, only to bump directly into Ying Feng who was also coming out. Subconsciously, he rubbed his own neck. Ying Feng’s steps also froze when he...","categories": [],
+        "tags": [],
+        "url": "/qizi/59",
         "teaser": null
       }]

@@ -8,5 +8,9 @@ Hi there. I can read and speak some Chinese (idioms kill me), so I wanted to try
 <div class="note">Note(s)</div>
 If you see any mistakes, feel free to [create a pull request to fix it on your own](https://github.com/tamathecat/tamathecat.github.io/pulls) or [make an issue to talk about it](https://github.com/tamathecat/tamathecat.github.io/issues) and I'll take a look. If you don't feel comfortable on Github, feel free to DM me at <a href="https://twitter.com/intent/tweet?screen_name=throwawaystuff5&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @throwawaystuff5</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> on Twitter. Also, if you see changes since your last visit, it's cause I can't make up my mind on how to best translate something and have been mulling over it ^^.
 
+
+<div class="note">10/16/2022 Update</div>
+If you'd like to help proofread and/or tone-check, reach out to my Twitter or Discord at jellyfish#4052 and let me know!
+
 <div class="note">10/03/2022 Update</div>
 I want to finish Qizi ^^ I will be picking up something else soon too. My Chinese is improving by leaps and bounds hahaha.
