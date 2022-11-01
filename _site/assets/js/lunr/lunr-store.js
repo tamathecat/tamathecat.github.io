@@ -1,12 +1,12 @@
 var store = [{
         "title": "Qizi / 51",
-        "excerpt":"Tip: Tianxiu has two large influential and evenly matched adversaries——the military and the church. When Xing Lou saw the words on the screen, a smile escaped his lips. After pondering for a bit, he promptly sent a reply. ——Your conjecture is correct. As expected! Heng He’s eyes lit up. He...","categories": [],
+        "excerpt":"The author has something to say: Tip: Tianxiu has two large influential and evenly matched adversaries——the military and the church. When Xing Lou saw the words on the screen, a smile escaped his lips. After pondering for a bit, he promptly sent a reply. ——Your conjecture is correct. As expected!...","categories": [],
         "tags": [],
         "url": "/qizi/51",
         "teaser": null
       },{
         "title": "Qizi / 52",
-        "excerpt":"Never before had any single scene shook Ying Feng as much as this one did–to the extent that after intently gazing at the person in front of him for so long, he’d even forgotten why he called out to him in the first place. It even caused Ling Xiao, who...","categories": [],
+        "excerpt":"Never before had any single scene shook Ying Feng as much as this one did—to the extent that after gazing intently at the person in front of him for so long, he’d even forgotten why he called out to him in the first place. It even caused Ling Xiao, who...","categories": [],
         "tags": [],
         "url": "/qizi/52",
         "teaser": null
@@ -48,8 +48,14 @@ var store = [{
         "teaser": null
       },{
         "title": "Qizi / 59",
-        "excerpt":"The visions of the two people went dark at the same time. At a loss, Ling Xiao took off his blindfold and opened the door, only to bump directly into Ying Feng who was also coming out. Subconsciously, he rubbed his own neck. Ying Feng’s steps also froze when he...","categories": [],
+        "excerpt":"The visions of the two went dark at the same time. At a loss, Ling Xiao took off his blindfold and opened the door, only to bump directly into Ying Feng who was also coming out. Subconsciously, he rubbed his own neck. Ying Feng also froze when he saw this...","categories": [],
         "tags": [],
         "url": "/qizi/59",
+        "teaser": null
+      },{
+        "title": "Qizi / 60",
+        "excerpt":"The author has something to say: Today and tomorrow are the final chapters of Bikong Academy. We will have to say goodbye to some people temporarily or permanently, and everyone will be happy in their own lives. t/n: Sorry for the late update, been sick for a week. Pu-tong, pu-tong,...","categories": [],
+        "tags": [],
+        "url": "/qizi/60",
         "teaser": null
       }]
