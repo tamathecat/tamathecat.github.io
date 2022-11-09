@@ -54,8 +54,14 @@ var store = [{
         "teaser": null
       },{
         "title": "Qizi / 60",
-        "excerpt":"The author has something to say: Today and tomorrow are the final chapters of Bikong Academy. We will have to say goodbye to some people temporarily or permanently, and everyone will be happy in their own lives. t/n: Sorry for the late update, been sick for a week. Pu-tong, pu-tong,...","categories": [],
+        "excerpt":"The author has something to say: Today and tomorrow are the final chapters of Bikong Academy. We’ll have to say goodbye to some people temporarily or permanently, and everyone will be happy in their own lives. Pu-tong, pu-tong, pu-tong… The two were so close they could even hear each other’s...","categories": [],
         "tags": [],
         "url": "/qizi/60",
+        "teaser": null
+      },{
+        "title": "Qizi / 61",
+        "excerpt":"He Gui watched as Zhi Shang gradually faded away in front of him, then breathed a sigh of relief. “That settles one big headache, next…” Halfway through his words, he looked down in disbelief. The dagger that just stabbed Zhi Shang was now completely immersed in his own chest, with...","categories": [],
+        "tags": [],
+        "url": "/qizi/61",
         "teaser": null
       }]

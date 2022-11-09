@@ -30,9 +30,6 @@ defaults:
     values:
       layout: single
 
-twitter:
-  username: "mmistakes-theme"
-
 plugins:
   - jekyll-include-cache
 
@@ -49,3 +46,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+repository: "tamathecat/tamathecat.github.io"
+
+staticman:
+  branch            : "main"

@@ -1,0 +1,10 @@
+---
+layout: single
+---
+
+<article id="content" class="page__content">
+  {{ content }}
+  {% if page.comments == true %}
+    {% include comments.html %}
+  {% endif %}
+</article>
