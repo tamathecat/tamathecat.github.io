@@ -15,8 +15,10 @@
     </div>
     <input type="hidden" name="options[origin]" value="{{ page.url | relative_url }}">
     <input type="hidden" name="options[parent]" value="{{ page.url | relative_url }}">
-    <input type="hidden" id="comment-replying-to" name="fields[replying_to]" value="">
     <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug }}">
+    <div class="hidden js-notice notice">
+      <p class="js-notice-text"></p>
+    </div>
     <button type="submit" id="comment-form-submit">Send comment</button>
   </form>
 </div>
