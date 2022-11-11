@@ -367,7 +367,7 @@
       $("#comment-form .js-notice-text").html(message);
     }
 
-    $(event.target).addClass("disabled");
+    $("#comment-form-submit").addClass("btn--disabled");
     $("#comment-form-submit").html(
       '<svg class="icon spin"><use xlink:href="/assets/icons/icons.svg#icon-loading"></use></svg> Loading...'
     );
