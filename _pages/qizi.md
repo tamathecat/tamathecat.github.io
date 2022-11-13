@@ -23,12 +23,12 @@ Check out [Novel Updates](https://www.novelupdates.com/series/qizi/) for <b>chap
 
 <details>
 <summary>Warning tags so far, <u>don't look if you don't want to be spoiled</u></summary>
-non-explicit dubcon, non-explicit noncon, tragedy
+non-explicit dubcon, non-explicit noncon, pain train
 </details>
 
 ## Bikong Arc
 {% for qizi in site.qizi %}
-{% if forloop.index < 12 %}
+{% if forloop.index < 13 %}
 <p><a class="qizi" href="{{qizi.permalink}}">{{qizi.title}}</a></p>
 {% endif %}
 {% endfor %}

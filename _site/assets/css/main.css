@@ -4,6 +4,11 @@
 
 .ais-search-box .ais-search-box--input { background-color: #1f242c; }
 
+/* system typefaces */
+/* sans serif typefaces */
+/* serif typefaces */
+/* type scale */
+/* headline scale */
 /*!
  * Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
  * Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
@@ -29,7 +34,7 @@
 /* Other ========================================================================== */
 /* Mixins and functions */
 /* Magnific Popup CSS */
-.mfp-counter { font-family: Georgia, Times, serif; }
+.mfp-counter { font-family: Lora, Georgia, Times, serif; }
 
 .mfp-bg { top: 0; left: 0; width: 100%; height: 100%; z-index: 1042; overflow: hidden; position: fixed; background: #000; opacity: 0.8; filter: alpha(opacity=80); }
 
@@ -70,7 +75,7 @@
 button.mfp-close, button.mfp-arrow { overflow: visible; cursor: pointer; background: transparent; border: 0; -webkit-appearance: none; display: block; outline: none; padding: 0; z-index: 1046; -webkit-box-shadow: none; box-shadow: none; }
 button::-moz-focus-inner { padding: 0; border: 0; }
 
-.mfp-close { width: 44px; height: 44px; line-height: 44px; position: absolute; right: 0; top: 0; text-decoration: none; text-align: center; opacity: 1; filter: alpha(opacity=100); padding: 0 0 18px 10px; color: #fff; font-style: normal; font-size: 28px; font-family: Georgia, Times, serif; }
+.mfp-close { width: 44px; height: 44px; line-height: 44px; position: absolute; right: 0; top: 0; text-decoration: none; text-align: center; opacity: 1; filter: alpha(opacity=100); padding: 0 0 18px 10px; color: #fff; font-style: normal; font-size: 28px; font-family: Lora, Georgia, Times, serif; }
 .mfp-close:hover, .mfp-close:focus { opacity: 1; filter: alpha(opacity=100); }
 .mfp-close:active { top: 1px; }
 
@@ -212,10 +217,10 @@ textarea { overflow: auto; /* remove vertical scrollbar in IE6-9*/ vertical-alig
 /* ========================================================================== BASE ELEMENTS ========================================================================== */
 html { /* sticky footer fix */ position: relative; min-height: 100%; }
 
-body { margin: 0; padding: 0; color: #eaeaea; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; line-height: 1.5; }
+body { margin: 0; padding: 0; color: #eaeaea; font-family: Times, serif; line-height: 1.5; }
 body.overflow--hidden { /* when primary navigation is visible, the content in the background won't scroll */ overflow: hidden; }
 
-h1, h2, h3, h4, h5, h6 { margin: 2em 0 0.5em; line-height: 1.2; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-weight: bold; }
+h1, h2, h3, h4, h5, h6 { margin: 2em 0 0.5em; line-height: 1.2; font-family: Times, serif; font-weight: bold; }
 
 h1 { margin-top: 0; font-size: 1.563em; }
 
@@ -229,7 +234,7 @@ h5 { font-size: 1.03125em; }
 
 h6 { font-size: 1em; }
 
-small, .small { font-size: 0.75em; }
+small, .small { font-size: 0.8em; }
 
 p { margin-bottom: 1.3em; }
 
@@ -282,7 +287,7 @@ figure.half figcaption { width: 100%; }
 figure.third figcaption { width: 100%; }
 
 /* Figure captions */
-figcaption { margin-bottom: 0.5em; color: #eeeeee; font-family: Georgia, Times, serif; font-size: 0.75em; }
+figcaption { margin-bottom: 0.5em; color: #eeeeee; font-family: Times, serif; font-size: 0.8em; }
 figcaption a { -webkit-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
 figcaption a:hover { color: #a9dde0; }
 
@@ -314,7 +319,7 @@ label, input, button, select, textarea { vertical-align: baseline; *vertical-ali
 input, button, select, textarea { box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; }
 
 label { display: block; margin-bottom: 0.25em; color: #eaeaea; cursor: pointer; }
-label small { font-size: 0.75em; }
+label small { font-size: 0.8em; }
 label input, label textarea, label select { display: block; }
 
 input, textarea, select { display: inline-block; width: 100%; padding: 0.25em; margin-bottom: 0.5em; color: #eaeaea; background-color: #252a34; border: #51555d; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125); }
@@ -401,7 +406,7 @@ input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focu
 .form__spinner { display: none; position: absolute; top: 50%; left: 50%; z-index: 11; }
 
 /* ========================================================================== TABLES ========================================================================== */
-table { display: block; margin-bottom: 1em; width: 100%; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em; border-collapse: collapse; overflow-x: auto; }
+table { display: block; margin-bottom: 1em; width: 100%; font-family: Times, serif; font-size: 0.8em; border-collapse: collapse; overflow-x: auto; }
 table + table { margin-top: 1em; }
 
 thead { background-color: #51555d; border-bottom: 2px solid #3d4046; }
@@ -420,7 +425,7 @@ tr, td, th { vertical-align: middle; }
 /* Components */
 /* ========================================================================== BUTTONS ========================================================================== */
 /* Default button ========================================================================== */
-.btn { /* default */ display: inline-block; margin-bottom: 0.25em; padding: 0.5em 1em; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em; font-weight: bold; text-align: center; text-decoration: none; border-width: 0; border-radius: 4px; cursor: pointer; /* button colors */ /* fills width of parent container */ /* disabled */ /* extra large button */ /* large button */ /* small button */ }
+.btn { /* default */ display: inline-block; margin-bottom: 0.25em; padding: 0.5em 1em; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.8em; font-weight: bold; text-align: center; text-decoration: none; border-width: 0; border-radius: 4px; cursor: pointer; /* button colors */ /* fills width of parent container */ /* disabled */ /* extra large button */ /* large button */ /* small button */ }
 .btn .icon { margin-right: 0.5em; }
 .btn .icon + .hidden { margin-left: -0.5em; /* override for hidden text*/ }
 .btn--primary { background-color: #00adb5; color: #fff; }
@@ -457,13 +462,13 @@ tr, td, th { vertical-align: middle; }
 .btn--block + .btn--block { margin-top: 0.25em; }
 .btn--disabled { pointer-events: none; cursor: not-allowed; filter: alpha(opacity=65); box-shadow: none; opacity: 0.65; }
 .btn--x-large { font-size: 1.25em; }
-.btn--large { font-size: 1em; }
-.btn--small { font-size: 0.6875em; }
+.btn--large { font-size: 1.1em; }
+.btn--small { font-size: 0.8em; }
 
 /* ========================================================================== NOTICE TEXT BLOCKS ========================================================================== */
 /** Default Kramdown usage (no indents!): <div class="notice" markdown="1"> #### Headline for the Notice Text for the notice </div> */
 /* Default notice */
-.notice { margin: 2em 0 !important; /* override*/ padding: 1em; color: #eaeaea; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em !important; text-indent: initial; /* override*/ background-color: #434851; border-radius: 4px; box-shadow: 0 1px 1px rgba(189, 193, 196, 0.25); }
+.notice { margin: 2em 0 !important; /* override*/ padding: 1em; color: #eaeaea; font-family: Times, serif; font-size: 0.8em !important; text-indent: initial; /* override*/ background-color: #434851; border-radius: 4px; box-shadow: 0 1px 1px rgba(189, 193, 196, 0.25); }
 .notice h4 { margin-top: 0 !important; /* override*/ margin-bottom: 0.75em; line-height: inherit; }
 .page__content .notice h4 { /* using at-root to override .page-content h4 font size*/ margin-bottom: 0; font-size: 1em; }
 .notice p:last-child { margin-bottom: 0 !important; /* override*/ }
@@ -475,7 +480,7 @@ tr, td, th { vertical-align: middle; }
 .notice ul:last-child { margin-bottom: 0; /* override*/ }
 
 /* Primary notice */
-.notice--primary { margin: 2em 0 !important; /* override*/ padding: 1em; color: #eaeaea; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em !important; text-indent: initial; /* override*/ background-color: #1e444e; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 173, 181, 0.25); }
+.notice--primary { margin: 2em 0 !important; /* override*/ padding: 1em; color: #eaeaea; font-family: Times, serif; font-size: 0.8em !important; text-indent: initial; /* override*/ background-color: #1e444e; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 173, 181, 0.25); }
 .notice--primary h4 { margin-top: 0 !important; /* override*/ margin-bottom: 0.75em; line-height: inherit; }
 .page__content .notice--primary h4 { /* using at-root to override .page-content h4 font size*/ margin-bottom: 0; font-size: 1em; }
 .notice--primary p:last-child { margin-bottom: 0 !important; /* override*/ }
@@ -487,7 +492,7 @@ tr, td, th { vertical-align: middle; }
 .notice--primary ul:last-child { margin-bottom: 0; /* override*/ }
 
 /* Info notice */
-.notice--info { margin: 2em 0 !important; /* override*/ padding: 1em; color: #eaeaea; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em !important; text-indent: initial; /* override*/ background-color: #29414f; border-radius: 4px; box-shadow: 0 1px 1px rgba(59, 156, 186, 0.25); }
+.notice--info { margin: 2em 0 !important; /* override*/ padding: 1em; color: #eaeaea; font-family: Times, serif; font-size: 0.8em !important; text-indent: initial; /* override*/ background-color: #29414f; border-radius: 4px; box-shadow: 0 1px 1px rgba(59, 156, 186, 0.25); }
 .notice--info h4 { margin-top: 0 !important; /* override*/ margin-bottom: 0.75em; line-height: inherit; }
 .page__content .notice--info h4 { /* using at-root to override .page-content h4 font size*/ margin-bottom: 0; font-size: 1em; }
 .notice--info p:last-child { margin-bottom: 0 !important; /* override*/ }
@@ -499,7 +504,7 @@ tr, td, th { vertical-align: middle; }
 .notice--info ul:last-child { margin-bottom: 0; /* override*/ }
 
 /* Warning notice */
-.notice--warning { margin: 2em 0 !important; /* override*/ padding: 1em; color: #eaeaea; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em !important; text-indent: initial; /* override*/ background-color: #483b2b; border-radius: 4px; box-shadow: 0 1px 1px rgba(214, 127, 5, 0.25); }
+.notice--warning { margin: 2em 0 !important; /* override*/ padding: 1em; color: #eaeaea; font-family: Times, serif; font-size: 0.8em !important; text-indent: initial; /* override*/ background-color: #483b2b; border-radius: 4px; box-shadow: 0 1px 1px rgba(214, 127, 5, 0.25); }
 .notice--warning h4 { margin-top: 0 !important; /* override*/ margin-bottom: 0.75em; line-height: inherit; }
 .page__content .notice--warning h4 { /* using at-root to override .page-content h4 font size*/ margin-bottom: 0; font-size: 1em; }
 .notice--warning p:last-child { margin-bottom: 0 !important; /* override*/ }
@@ -511,7 +516,7 @@ tr, td, th { vertical-align: middle; }
 .notice--warning ul:last-child { margin-bottom: 0; /* override*/ }
 
 /* Success notice */
-.notice--success { margin: 2em 0 !important; /* override*/ padding: 1em; color: #eaeaea; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em !important; text-indent: initial; /* override*/ background-color: #2a4336; border-radius: 4px; box-shadow: 0 1px 1px rgba(63, 166, 63, 0.25); }
+.notice--success { margin: 2em 0 !important; /* override*/ padding: 1em; color: #eaeaea; font-family: Times, serif; font-size: 0.8em !important; text-indent: initial; /* override*/ background-color: #2a4336; border-radius: 4px; box-shadow: 0 1px 1px rgba(63, 166, 63, 0.25); }
 .notice--success h4 { margin-top: 0 !important; /* override*/ margin-bottom: 0.75em; line-height: inherit; }
 .page__content .notice--success h4 { /* using at-root to override .page-content h4 font size*/ margin-bottom: 0; font-size: 1em; }
 .notice--success p:last-child { margin-bottom: 0 !important; /* override*/ }
@@ -523,7 +528,7 @@ tr, td, th { vertical-align: middle; }
 .notice--success ul:last-child { margin-bottom: 0; /* override*/ }
 
 /* Danger notice */
-.notice--danger { margin: 2em 0 !important; /* override*/ padding: 1em; color: #eaeaea; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em !important; text-indent: initial; /* override*/ background-color: #4d353c; border-radius: 4px; box-shadow: 0 1px 1px rgba(238, 95, 91, 0.25); }
+.notice--danger { margin: 2em 0 !important; /* override*/ padding: 1em; color: #eaeaea; font-family: Times, serif; font-size: 0.8em !important; text-indent: initial; /* override*/ background-color: #4d353c; border-radius: 4px; box-shadow: 0 1px 1px rgba(238, 95, 91, 0.25); }
 .notice--danger h4 { margin-top: 0 !important; /* override*/ margin-bottom: 0.75em; line-height: inherit; }
 .page__content .notice--danger h4 { /* using at-root to override .page-content h4 font size*/ margin-bottom: 0; font-size: 1em; }
 .notice--danger p:last-child { margin-bottom: 0 !important; /* override*/ }
@@ -561,7 +566,7 @@ tr, td, th { vertical-align: middle; }
 .breadcrumbs { clear: both; margin: 0 auto; max-width: 100%; padding-left: 1em; padding-right: 1em; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; -webkit-animation: intro 0.3s both; animation: intro 0.3s both; -webkit-animation-delay: 0.3s; animation-delay: 0.3s; }
 .breadcrumbs::after { clear: both; content: ""; display: table; }
 @media (min-width: 80em) { .breadcrumbs { max-width: 1280px; } }
-.breadcrumbs ol { padding: 0; list-style: none; font-size: 0.75em; }
+.breadcrumbs ol { padding: 0; list-style: none; font-size: 0.8em; }
 @media (min-width: 64em) { .breadcrumbs ol { float: right; width: calc(100% - 200px); } }
 @media (min-width: 80em) { .breadcrumbs ol { width: calc(100% - 300px); } }
 .breadcrumbs li { display: inline; }
@@ -579,7 +584,7 @@ tr, td, th { vertical-align: middle; }
 .pagination li:first-child { margin-left: 0; }
 .pagination li:first-child a { border-top-left-radius: 4px; border-bottom-left-radius: 4px; }
 .pagination li:last-child a { border-top-right-radius: 4px; border-bottom-right-radius: 4px; }
-.pagination--pager { display: block; padding: 1em 2em; float: left; width: 50%; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 1em; font-weight: bold; text-align: center; text-decoration: none; color: #eeeeee; border: 1px solid #3d4046; border-radius: 4px; }
+.pagination--pager { display: block; padding: 1em 2em; float: left; width: 50%; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 1.1em; font-weight: bold; text-align: center; text-decoration: none; color: #eeeeee; border: 1px solid #3d4046; border-radius: 4px; }
 .pagination--pager:hover { background-color: #eeeeee; color: #3d4144; }
 .pagination--pager:first-child { border-top-right-radius: 0; border-bottom-right-radius: 0; }
 .pagination--pager:last-child { margin-left: -1px; border-top-left-radius: 0; border-bottom-left-radius: 0; }
@@ -602,7 +607,7 @@ tr, td, th { vertical-align: middle; }
 .greedy-nav .visible-links a:hover:before { -webkit-transform: scaleX(1); -ms-transform: scaleX(1); transform: scaleX(1); }
 .greedy-nav .hidden-links { position: absolute; top: 100%; right: 0; margin-top: 15px; padding: 5px; border: 1px solid #51555d; border-radius: 4px; background: #252a34; -webkit-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12); box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12); }
 .greedy-nav .hidden-links.hidden { display: none; }
-.greedy-nav .hidden-links a { margin: 0; padding: 10px 20px; font-size: 1em; }
+.greedy-nav .hidden-links a { margin: 0; padding: 10px 20px; font-size: 1.1em; }
 .greedy-nav .hidden-links a:hover { color: #bbbbbb; background: #1a1d24; }
 .greedy-nav .hidden-links:before { content: ""; position: absolute; top: -11px; right: 10px; width: 0; border-style: solid; border-width: 0 10px 10px; border-color: #51555d transparent; display: block; z-index: 0; }
 .greedy-nav .hidden-links:after { content: ""; position: absolute; top: -10px; right: 10px; width: 0; border-style: solid; border-width: 0 10px 10px; border-color: #252a34 transparent; display: block; z-index: 1; }
@@ -615,7 +620,7 @@ tr, td, th { vertical-align: middle; }
 .nav__list { margin-bottom: 1.5em; }
 .nav__list input[type="checkbox"], .nav__list label { display: none; }
 @media (max-width: 63.9375em) { .nav__list { /* selected*/ /* on hover show expand*/ }
-  .nav__list label { position: relative; display: inline-block; padding: 0.5em 2.5em 0.5em 1em; color: #7a8288; font-size: 0.75em; font-weight: bold; border: 1px solid #bdc1c4; border-radius: 4px; z-index: 20; -webkit-transition: 0.2s ease-out; transition: 0.2s ease-out; cursor: pointer; }
+  .nav__list label { position: relative; display: inline-block; padding: 0.5em 2.5em 0.5em 1em; color: #7a8288; font-size: 0.8em; font-weight: bold; border: 1px solid #bdc1c4; border-radius: 4px; z-index: 20; -webkit-transition: 0.2s ease-out; transition: 0.2s ease-out; cursor: pointer; }
   .nav__list label:before, .nav__list label:after { content: ""; position: absolute; right: 1em; top: 1.25em; width: 0.75em; height: 0.125em; line-height: 1; background-color: #7a8288; -webkit-transition: 0.2s ease-out; transition: 0.2s ease-out; }
   .nav__list label:after { -webkit-transform: rotate(90deg); -ms-transform: rotate(90deg); transform: rotate(90deg); }
   .nav__list label:hover { color: #fff; border-color: #7a8288; background-color: #333333; }
@@ -635,17 +640,17 @@ tr, td, th { vertical-align: middle; }
 @media (max-width: 63.9375em) { .nav__list .nav__items { position: relative; max-height: 0; opacity: 0%; overflow: hidden; z-index: 10; -webkit-transition: 0.3s ease-in-out; transition: 0.3s ease-in-out; -webkit-transform: translate(0, 10%); -ms-transform: translate(0, 10%); transform: translate(0, 10%); } }
 
 @media (max-width: 63.9375em) { .nav__list input:checked ~ .nav__items { -webkit-transition: 0.5s ease-in-out; transition: 0.5s ease-in-out; max-height: 9999px; /* exaggerate max-height to accommodate tall lists*/ overflow: visible; opacity: 1; margin-top: 1em; -webkit-transform: translate(0, 0); -ms-transform: translate(0, 0); transform: translate(0, 0); } }
-.nav__title { margin: 0; padding: 0.5rem 0.75rem; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 1em; font-weight: bold; }
+.nav__title { margin: 0; padding: 0.5rem 0.75rem; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 1.1em; font-weight: bold; }
 
-.nav__sub-title { display: block; margin: 0.5rem 0; padding: 0.25rem 0; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em; font-weight: bold; text-transform: uppercase; border-bottom: 1px solid #51555d; }
+.nav__sub-title { display: block; margin: 0.5rem 0; padding: 0.25rem 0; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.8em; font-weight: bold; text-transform: uppercase; border-bottom: 1px solid #51555d; }
 
 /* Table of contents navigation ========================================================================== */
 .toc { font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; color: #7a8288; background-color: #252a34; border: 1px solid #51555d; border-radius: 4px; -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125); box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125); }
-.toc .nav__title { color: #fff; font-size: 0.75em; background: #00adb5; border-top-left-radius: 4px; border-top-right-radius: 4px; }
+.toc .nav__title { color: #fff; font-size: 0.8em; background: #00adb5; border-top-left-radius: 4px; border-top-right-radius: 4px; }
 .toc .active a { background-color: #cceff0; color: #3d4144; }
 
-.toc__menu { margin: 0; padding: 0; width: 100%; list-style: none; font-size: 0.75em; }
-@media (min-width: 64em) { .toc__menu { font-size: 0.6875em; } }
+.toc__menu { margin: 0; padding: 0; width: 100%; list-style: none; font-size: 0.8em; }
+@media (min-width: 64em) { .toc__menu { font-size: 0.8em; } }
 .toc__menu a { display: block; padding: 0.25rem 0.75rem; color: #eeeeee; font-weight: bold; line-height: 1.5; border-bottom: 1px solid #51555d; }
 .toc__menu a:hover { color: #eaeaea; }
 .toc__menu li ul > li a { padding-left: 1.25rem; font-weight: normal; }
@@ -664,10 +669,10 @@ tr, td, th { vertical-align: middle; }
 .page__footer a:hover { text-decoration: underline; }
 .page__footer .fas, .page__footer .fab, .page__footer .far, .page__footer .fal { color: #eeeeee; }
 
-.page__footer-copyright { font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.6875em; }
+.page__footer-copyright { font-family: Times, serif; font-size: 0.8em; }
 
 .page__footer-follow ul { margin: 0; padding: 0; list-style-type: none; }
-.page__footer-follow li { display: inline-block; padding-top: 5px; padding-bottom: 5px; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em; text-transform: uppercase; }
+.page__footer-follow li { display: inline-block; padding-top: 5px; padding-bottom: 5px; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.8em; text-transform: uppercase; }
 .page__footer-follow li + li:before { content: ""; padding-right: 5px; }
 .page__footer-follow a { padding-right: 10px; font-weight: bold; }
 .page__footer-follow .social-icons a { white-space: nowrap; }
@@ -689,7 +694,7 @@ tr, td, th { vertical-align: middle; }
 @media (min-width: 80em) { .search-content .search-input { font-size: 2.441em; } }
 .search-content.is--visible { display: block; visibility: visible; }
 .search-content.is--visible::after { content: ""; display: block; }
-.search-content .results__found { margin-top: 0.5em; font-size: 0.75em; }
+.search-content .results__found { margin-top: 0.5em; font-size: 0.8em; }
 .search-content .archive__item { margin-bottom: 2em; }
 @media (min-width: 64em) { .search-content .archive__item { width: 75%; } }
 @media (min-width: 80em) { .search-content .archive__item { width: 50%; } }
@@ -704,7 +709,7 @@ tr, td, th { vertical-align: middle; }
 .archive__item-excerpt .ais-Highlight { color: #00adb5; font-style: normal; font-weight: bold; }
 
 /* ========================================================================== Syntax highlighting ========================================================================== */
-div.highlighter-rouge, figure.highlight { position: relative; margin-bottom: 1em; background: #263238; color: #eeffff; font-family: Monaco, Consolas, "Lucida Console", monospace; font-size: 0.75em; line-height: 1.8; border-radius: 4px; }
+div.highlighter-rouge, figure.highlight { position: relative; margin-bottom: 1em; background: #263238; color: #eeffff; font-family: Monaco, Consolas, "Lucida Console", monospace; font-size: 0.8em; line-height: 1.8; border-radius: 4px; }
 div.highlighter-rouge > pre, div.highlighter-rouge pre.highlight, figure.highlight > pre, figure.highlight pre.highlight { margin: 0; padding: 1em; }
 
 .highlight table { margin-bottom: 0; font-size: 1em; border: 0; }
@@ -915,7 +920,7 @@ body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .vi
 .footnote { color: #9ba1a6; text-decoration: none; }
 
 .footnotes { color: #9ba1a6; }
-.footnotes ol, .footnotes li, .footnotes p { margin-bottom: 0; font-size: 0.75em; }
+.footnotes ol, .footnotes li, .footnotes p { margin-bottom: 0; font-size: 0.8em; }
 
 a.reversefootnote { color: #7a8288; text-decoration: none; }
 a.reversefootnote:hover { text-decoration: underline; }
@@ -950,7 +955,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 .page__title { margin-top: 0; line-height: 1; }
 .page__title + .page__meta, .page__title + .comment__date { margin-top: -0.5em; }
 
-.page__lead { font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 1.25em; }
+.page__lead { font-family: Times, serif; font-size: 1.25em; }
 
 .page__content { /* paragraph indents */ /* blockquote citations */ }
 .page__content h2 { padding-bottom: 0.5em; border-bottom: 1px solid #51555d; }
@@ -961,8 +966,8 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 .page__content a:not(.btn):hover { text-decoration: underline; }
 .page__content a:not(.btn):hover img { box-shadow: 0 0 10px rgba(0, 0, 0, 0.25); }
 .page__content dt { margin-top: 1em; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-weight: bold; }
-.page__content dd { margin-left: 1em; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em; }
-.page__content .small { font-size: 0.75em; }
+.page__content dd { margin-left: 1em; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.8em; }
+.page__content .small { font-size: 0.8em; }
 .page__content blockquote + .small { margin-top: -1.5em; padding-left: 1.25rem; }
 
 .page__hero { position: relative; margin-bottom: 2em; clear: both; -webkit-animation: intro 0.3s both; animation: intro 0.3s both; -webkit-animation-delay: 0.25s; animation-delay: 0.25s; }
@@ -979,7 +984,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 
 .page__hero-image { width: 100%; height: auto; -ms-interpolation-mode: bicubic; }
 
-.page__hero-caption { position: absolute; bottom: 0; right: 0; margin: 0 auto; padding: 2px 5px; color: #fff; font-family: Georgia, Times, serif; font-size: 0.6875em; background: #000; text-align: right; z-index: 5; opacity: 0.5; border-radius: 4px 0 0 0; }
+.page__hero-caption { position: absolute; bottom: 0; right: 0; margin: 0 auto; padding: 2px 5px; color: #fff; font-family: Times, serif; font-size: 0.8em; background: #000; text-align: right; z-index: 5; opacity: 0.5; border-radius: 4px 0 0 0; }
 @media (min-width: 64em) { .page__hero-caption { padding: 5px 10px; } }
 .page__hero-caption a { color: #fff; text-decoration: none; }
 
@@ -987,14 +992,14 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 .page__share { margin-top: 2em; padding-top: 1em; border-top: 1px solid #51555d; }
 @media (max-width: 37.5em) { .page__share .btn span { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; } }
 
-.page__share-title { margin-bottom: 10px; font-size: 0.75em; text-transform: uppercase; }
+.page__share-title { margin-bottom: 10px; font-size: 0.8em; text-transform: uppercase; }
 
 /* Page meta ========================================================================== */
-.page__meta, .comment__date { margin-top: 2em; color: #eeeeee; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em; }
+.page__meta, .comment__date { margin-top: 2em; color: #eeeeee; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.8em; }
 .page__meta p, .comment__date p { margin: 0; }
 .page__meta a, .comment__date a { color: inherit; }
 
-.page__meta-title { margin-bottom: 10px; font-size: 0.75em; text-transform: uppercase; }
+.page__meta-title { margin-bottom: 10px; font-size: 0.8em; text-transform: uppercase; }
 
 .page__meta-sep::before { content: "\2022"; padding-left: 0.5em; padding-right: 0.5em; }
 
@@ -1024,7 +1029,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 /* Comments ========================================================================== */
 .page__comments { float: left; margin-left: 0; margin-right: 0; width: 100%; clear: both; }
 
-.page__comments-title { margin-top: 2rem; margin-bottom: 10px; padding-top: 2rem; font-size: 0.75em; border-top: 1px solid #51555d; text-transform: uppercase; }
+.page__comments-title { margin-top: 2rem; margin-bottom: 10px; padding-top: 2rem; font-size: 0.8em; border-top: 1px solid #51555d; text-transform: uppercase; }
 
 .page__comments-form { -webkit-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
 .page__comments-form.disabled input, .page__comments-form.disabled button, .page__comments-form.disabled textarea, .page__comments-form.disabled label { pointer-events: none; cursor: not-allowed; filter: alpha(opacity=65); box-shadow: none; opacity: 0.65; }
@@ -1055,7 +1060,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 @media (min-width: 80em) { .page__related { width: calc(100% - 300px); } }
 .page__related a { color: inherit; text-decoration: none; }
 
-.page__related-title { margin-bottom: 10px; font-size: 0.75em; text-transform: uppercase; }
+.page__related-title { margin-bottom: 10px; font-size: 0.8em; text-transform: uppercase; }
 
 /* Wide Pages ========================================================================== */
 @media (min-width: 64em) { .wide .page { padding-right: 0; } }
@@ -1072,7 +1077,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 .archive__item a { position: relative; z-index: 10; }
 .archive__item a[rel="permalink"] { position: static; }
 
-.archive__subtitle { margin: 1.414em 0 0.5em; padding-bottom: 0.5em; font-size: 1em; color: #eeeeee; border-bottom: 1px solid #51555d; }
+.archive__subtitle { margin: 1.414em 0 0.5em; padding-bottom: 0.5em; font-size: 1.1em; color: #eeeeee; border-bottom: 1px solid #51555d; }
 .archive__subtitle + .list__item .archive__item-title { margin-top: 0.5em; }
 
 .archive__item-title { margin-bottom: 0.25em; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; line-height: initial; overflow: hidden; text-overflow: ellipsis; }
@@ -1082,14 +1087,14 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 /* remove border*/
 .page__content .archive__item-title { margin-top: 1em; border-bottom: none; }
 
-.archive__item-excerpt { margin-top: 0; font-size: 0.75em; }
+.archive__item-excerpt { margin-top: 0; font-size: 0.8em; }
 .archive__item-excerpt + p { text-indent: 0; }
 .archive__item-excerpt a { position: relative; }
 
 .archive__item-teaser { position: relative; border-radius: 4px; overflow: hidden; }
 .archive__item-teaser img { width: 100%; }
 
-.archive__item-caption { position: absolute; bottom: 0; right: 0; margin: 0 auto; padding: 2px 5px; color: #fff; font-family: Georgia, Times, serif; font-size: 0.625em; background: #000; text-align: right; z-index: 5; opacity: 0.5; border-radius: 4px 0 0 0; }
+.archive__item-caption { position: absolute; bottom: 0; right: 0; margin: 0 auto; padding: 2px 5px; color: #fff; font-family: Times, serif; font-size: 0.625em; background: #000; text-align: right; z-index: 5; opacity: 0.5; border-radius: 4px 0 0 0; }
 @media (min-width: 64em) { .archive__item-caption { padding: 5px 10px; } }
 .archive__item-caption a { color: #fff; text-decoration: none; }
 
@@ -1114,9 +1119,9 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 .grid__item .page__meta, .grid__item .comment__date { margin: 0 0 4px; font-size: 0.6em; }
 .grid__item .page__meta-sep { display: block; }
 .grid__item .page__meta-sep::before { display: none; }
-.grid__item .archive__item-title { margin-top: 0.5em; font-size: 1em; }
+.grid__item .archive__item-title { margin-top: 0.5em; font-size: 1.1em; }
 .grid__item .archive__item-excerpt { display: none; }
-@media (min-width: 48em) { .grid__item .archive__item-excerpt { display: block; font-size: 0.75em; } }
+@media (min-width: 48em) { .grid__item .archive__item-excerpt { display: block; font-size: 0.8em; } }
 @media (min-width: 37.5em) { .grid__item .archive__item-teaser { max-height: 200px; } }
 @media (min-width: 48em) { .grid__item .archive__item-teaser { max-height: 120px; } }
 
@@ -1176,7 +1181,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 @media (min-width: 80em) { .sidebar { width: calc(300px - 1em); } }
 .sidebar > * { margin-top: 1em; margin-bottom: 1em; }
 .sidebar h2, .sidebar h3, .sidebar h4, .sidebar h5, .sidebar h6 { margin-bottom: 0; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; }
-.sidebar p, .sidebar li { font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em; line-height: 1.5; }
+.sidebar p, .sidebar li { font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.8em; line-height: 1.5; }
 .sidebar img { width: 100%; }
 .sidebar img.emoji { width: 20px; height: 20px; }
 
@@ -1202,7 +1207,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 .author__name { margin: 0; }
 @media (min-width: 64em) { .author__name { margin-top: 10px; margin-bottom: 10px; } }
 
-.sidebar .author__name { font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 1em; }
+.sidebar .author__name { font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 1.1em; }
 
 .author__bio { margin: 0; }
 @media (min-width: 64em) { .author__bio { margin-top: 10px; margin-bottom: 20px; } }
@@ -1225,7 +1230,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 @media (min-width: 64em) { .author__urls:after { display: none; } }
 .author__urls ul { padding: 10px; list-style-type: none; }
 .author__urls li { white-space: nowrap; }
-.author__urls a { display: block; margin-bottom: 5px; padding-right: 5px; padding-top: 2px; padding-bottom: 2px; color: inherit; font-size: 1em; text-decoration: none; }
+.author__urls a { display: block; margin-bottom: 5px; padding-right: 5px; padding-top: 2px; padding-bottom: 2px; color: inherit; font-size: 1.1em; text-decoration: none; }
 .author__urls a:hover { text-decoration: underline; }
 
 /* Wide Pages ========================================================================== */
@@ -1275,12 +1280,17 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
   .page__hero-caption a { color: #000 !important; }
   /* Hide the following elements on print ========================================================================== */
   .masthead, .toc, .page__share, .page__related, .pagination, .ads, .page__footer, .page__comments-form, .author__avatar, .author__content, .author__urls-wrapper, .nav__list, .sidebar, .adsbygoogle { display: none !important; height: 1px !important; } }
+/** html { font-size: 20px; // change to whatever
+ @include breakpoint($medium) { font-size: 16px; // change to whatever }
+ @include breakpoint($large) { font-size: 18px; // change to whatever }
+ @include breakpoint($x-large) { font-size: 20px; // change to whatever }
+} **/
 /** From https://www.w3schools.com/css/css_tooltip.asp **/
 /* Tooltip container */
 .tooltip { position: relative; display: inline-block; border-bottom: 1px dotted white; /* Dots */ }
 
 /* Tooltip text */
-.tooltip .tooltiptext { visibility: hidden; background-color: gray; color: #fff; text-align: center; padding: 5px 5px 5px 5px; border-radius: 6px; font-size: 12px; /* Position the tooltip text */ position: absolute; z-index: 1; width: max-content; max-width: 150px; bottom: 100%; left: 50%; margin-left: -50px; /* Use half of the width (120/2 = 60), to center the tooltip */ }
+.tooltip .tooltiptext { visibility: hidden; background-color: gray; color: #fff; text-align: center; padding: 5px 5px 5px 5px; border-radius: 6px; font-size: 12px; font-family: Arial, Helvetica, sans-serif; /* Position the tooltip text */ position: absolute; z-index: 1; width: max-content; max-width: 150px; bottom: 100%; left: 50%; margin-left: -50px; /* Use half of the width (120/2 = 60), to center the tooltip */ }
 .tooltip .tooltiptext a { color: #89cff0; }
 
 /* Show the tooltip text on hover */
@@ -1288,4 +1298,4 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 
 .note { font-weight: bold; color: #89cff0; }
 
-.qizi { font-size: 24px; font-weight: 700; color: #8cd2d5; }
+.qizi { font-size: 24px; font-weight: 700; color: #8cd2d5; font-family: Arial, Helvetica, sans-serif; }

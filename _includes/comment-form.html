@@ -48,7 +48,8 @@
 <div id="respond" class="comment__form">
   <div style="display: inline-block; width: 100%;">
     <form onSubmit="event.preventDefault(); submitComment(event);" id="comment-form" class="js-form" method="post" action="https://ark-static-man.herokuapp.com/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments">
-      <div class="title" style="font-size:25px; text-align:center; padding-bottom: 10px;">✨ <b>Leave a comment, it keeps me motivated!</b>  ✨</div>
+      <div class="title" style="font-size:25px; text-align:center;">✨ <b>Leave a comment</b>  ✨</div>
+      <div class="title" style="font-size:25px; text-align:center; padding-bottom: 10px;"><b>It keeps me motivated!</b></div>
       <div class="form__group">
         <label for="comment-form-name">Name
           <input type="text" id="comment-form-name" name="fields[name]" required spellcheck="false" placeholder="Your name">

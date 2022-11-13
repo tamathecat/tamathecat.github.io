@@ -1,6 +1,6 @@
 var store = [{
         "title": "Qizi / 51",
-        "excerpt":"The author has something to say: Tip: Tianxiu has two large influential and evenly matched adversaries——the military and the church. When Xing Lou saw the words on the screen, a smile escaped his lips. After pondering for a bit, he promptly sent a reply. ——Your conjecture is correct. As expected!...","categories": [],
+        "excerpt":"Tip: Tianxiu has two large influential and evenly matched adversaries——the military and the church. When Xing Lou saw the words on the screen, a smile escaped his lips. After pondering for a bit, he promptly sent a reply. ——Your conjecture is correct. As expected! Heng He’s eyes lit up. He...","categories": [],
         "tags": [],
         "url": "/qizi/51",
         "teaser": null
