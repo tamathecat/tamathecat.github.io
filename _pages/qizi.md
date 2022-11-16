@@ -5,7 +5,7 @@ permalink: /qizi/
 collection: qizi
 ---
 
-契子 by 易修罗
+<center>契子 by 易修罗</center>
 
 ### Novel Updates Summary
 On the distant Tianxiu Planet, there exists a group of unusual and intelligent beings. They consist of neither children nor elders. They have neither birth nor real death. They are born into the world through an extremely special process and have managed to keep their fundamental memories of survival through their endless reincarnations.

@@ -24,9 +24,9 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family           : $times !default;
-$header-font-family           : $times !default;
-$caption-font-family          : $times !default;
+$global-font-family           : $garamond !default;
+$header-font-family           : $garamond !default;
+$caption-font-family          : $garamond !default;
 
 /* type scale */
 $type-size-1: 2.441em !default;
@@ -47,6 +47,8 @@ $h-size-5: 1.03125em !default;
 $h-size-6: 1em !default;
 
 @import "minimal-mistakes"; // main partials
+
+$cute-blue: #89cff0;
 
 /** html {
   font-size: 20px; // change to whatever
@@ -105,7 +107,7 @@ $h-size-6: 1em !default;
 
 .note {
   font-weight: bold;
-  color: #89cff0;
+  color: $cute-blue;
 }
 
 .qizi {
@@ -115,3 +117,33 @@ $h-size-6: 1em !default;
   font-family: Arial, Helvetica, sans-serif;
 }
 
+blockquote {
+  margin: 0em 0em 0em 0em;
+}
+
+.page__title {
+  text-align: center;
+}
+
+$button-bg: $cute-blue;
+$button-text-color: #fff;
+
+button {
+  font-family: 'Courier New', monospace;
+  display: inline-block;
+  font-size: 1em;
+  padding: 1em 3em;
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: $button-bg;
+  color: $button-text-color;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  transition: transform ease-in 0.1s, box-shadow ease-in 0.25s;
+}
+
+.site-subtitle {
+  color: $cute-blue;
+}
