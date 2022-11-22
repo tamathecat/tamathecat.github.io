@@ -126,10 +126,10 @@ blockquote {
 }
 
 $button-bg: $cute-blue;
-$button-text-color: #fff;
+$button-text-color: black;
 
 button {
-  font-family: 'Courier New', monospace;
+  font-family: $times;
   display: inline-block;
   font-size: 1em;
   padding: 1em 3em;

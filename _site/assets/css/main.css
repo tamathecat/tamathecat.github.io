@@ -1304,6 +1304,6 @@ blockquote { margin: 0em 0em 0em 0em; }
 
 .page__title { text-align: center; }
 
-button { font-family: 'Courier New', monospace; display: inline-block; font-size: 1em; padding: 1em 3em; -webkit-appearance: none; appearance: none; background-color: #89cff0; color: #fff; border-radius: 4px; border: none; cursor: pointer; position: relative; transition: transform ease-in 0.1s, box-shadow ease-in 0.25s; }
+button { font-family: Times, serif; display: inline-block; font-size: 1em; padding: 1em 3em; -webkit-appearance: none; appearance: none; background-color: #89cff0; color: black; border-radius: 4px; border: none; cursor: pointer; position: relative; transition: transform ease-in 0.1s, box-shadow ease-in 0.25s; }
 
 .site-subtitle { color: #89cff0; }
