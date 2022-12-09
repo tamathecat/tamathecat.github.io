@@ -70,4 +70,10 @@ var store = [{
         "tags": [],
         "url": "/qizi/62",
         "teaser": null
+      },{
+        "title": "qizi / 63",
+        "excerpt":"Ling Xiao fastened his buttons one at a time. In the mirror stood a sky-blue uniform dressed young man, handsome, bright, and dashing. As of today, he was an official freshman at Yutian Military Academy, about to embark on a new leg of his studies. The bathroom door opened and...","categories": [],
+        "tags": [],
+        "url": "/qizi/63",
+        "teaser": null
       }]
