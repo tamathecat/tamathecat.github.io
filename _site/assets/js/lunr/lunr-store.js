@@ -30,7 +30,7 @@ var store = [{
         "teaser": null
       },{
         "title": "qizi / 56",
-        "excerpt":"The author has something to say: Some content is inconvenient to write in text, so the settings will be supplemented here. Qizhu’s abilities are locked by two values, value of affections and spiritual strength. Spiritual Vision, spiritual strength &gt;= 5, detect Qizi’s location. Spiritual Communication, spiritual strength &gt;= 10, value...","categories": [],
+        "excerpt":"The author has something to say: Some content is inconvenient to write in text, so the settings will be supplemented here. Qizhu’s abilities are locked behind two values, affections level and spiritual strength. Spiritual Vision, spiritual strength &gt;= 5, detect Qizi’s location. Spiritual Communication, spiritual strength &gt;= 10, affections level...","categories": [],
         "tags": [],
         "url": "/qizi/56",
         "teaser": null
@@ -78,7 +78,7 @@ var store = [{
         "teaser": null
       },{
         "title": "qizi / 64",
-        "excerpt":"t/n: Bing Can =&gt; Bingcan, I may change how other names are arranged too. affections value =&gt; value of affections, I might also change this to “level of affections”, or “affections level”, they are all the same as long as (I hope) you can understand it’s a measurable feeling. Happy...","categories": [],
+        "excerpt":"t/n: Bing Can =&gt; Bingcan, I may change how other names are arranged too. affections value =&gt; affections level, they are all the same as long as (I hope) you can understand it’s a measurable feeling. Happy holidays! The long-awaited, official first day of classes finally arrived, and Ling Xiao...","categories": [],
         "tags": [],
         "url": "/qizi/64",
         "teaser": null
