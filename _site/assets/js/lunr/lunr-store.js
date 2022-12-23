@@ -30,7 +30,7 @@ var store = [{
         "teaser": null
       },{
         "title": "qizi / 56",
-        "excerpt":"The author has something to say: Some content is inconvenient to write in text, so the settings will be supplemented here. Qizhu’s abilities are locked by two values, affections value and spiritual strength. Spiritual Vision, spiritual strength &gt;= 5, detect Qizi’s location. Spiritual Communication, spiritual strength &gt;= 10, affections value...","categories": [],
+        "excerpt":"The author has something to say: Some content is inconvenient to write in text, so the settings will be supplemented here. Qizhu’s abilities are locked by two values, value of affections and spiritual strength. Spiritual Vision, spiritual strength &gt;= 5, detect Qizi’s location. Spiritual Communication, spiritual strength &gt;= 10, value...","categories": [],
         "tags": [],
         "url": "/qizi/56",
         "teaser": null
@@ -75,5 +75,11 @@ var store = [{
         "excerpt":"Ling Xiao fastened his buttons one at a time. In the mirror stood a sky-blue uniform dressed young man, handsome, bright, and dashing. As of today, he was an official freshman at Yutian Military Academy, about to embark on a new leg of his studies. The bathroom door opened and...","categories": [],
         "tags": [],
         "url": "/qizi/63",
+        "teaser": null
+      },{
+        "title": "qizi / 64",
+        "excerpt":"t/n: Bing Can =&gt; Bingcan, I may change how other names are arranged too. affections value =&gt; value of affections, I might also change this to “level of affections”, or “affections level”, they are all the same as long as (I hope) you can understand it’s a measurable feeling. Happy...","categories": [],
+        "tags": [],
+        "url": "/qizi/64",
         "teaser": null
       }]
