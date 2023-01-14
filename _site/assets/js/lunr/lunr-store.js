@@ -86,6 +86,6 @@ var store = [{
         "title": "vacation notice",
         "excerpt":"Hello! It’s been a while. I’m still translating Qizi but it’s been slow ‘cause holidays &amp; planning for &amp; taking an overseas trip. I was hoping to wrap up the next two chapters before leaving for the trip, but alas. 65 is a bit long and still a WIP. I’ll...","categories": [],
         "tags": [],
-        "url": "/qizi/vacation-notice",
+        "url": "/qizi/notice",
         "teaser": null
       }]
