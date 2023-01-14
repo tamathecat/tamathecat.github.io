@@ -1,0 +1,53 @@
+# Welcome to Jekyll!
+
+title                 : Tama the Cat
+subtitle              : A site for fan translations by Tama the Cat
+domain                : tamathecat.github.io
+url                   : https://tamathecat.github.io
+
+minimal_mistakes_skin : "dark"
+remote_theme          : "mmistakes/minimal-mistakes@4.24.0"
+
+locale                : "en-US"
+title_separator       : "-"
+
+collections:
+  qizi:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  # _qizi
+  - scope:
+      path: ""
+      type: qizi
+    values:
+      layout: single
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+plugins:
+  - jekyll-include-cache
+
+include:
+  - _pages
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+repository: "tamathecat/tamathecat.github.io"
+
+staticman:
+  branch            : "main"
