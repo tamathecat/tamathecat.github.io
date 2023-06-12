@@ -1,9 +1,9 @@
 ---
 permalink: /qizi/notice
-title: "vacation notice"
+title: "notice"
 layout: qizi
-date: 2023-01-14
+date: 2023-06-12
 comments: true
 ---
 
-Hello! It's been a while. I'm still translating Qizi but it's been slow 'cause holidays & planning for & taking an overseas trip. I was hoping to wrap up the next two chapters before leaving for the trip, but alas. 65 is a bit long and still a WIP. I'll pick things up again at the end of this month, or the beginning of next month. Thank you for reading, and happy new year!
+Hello! 🙈 Where has time gone? After rereading past chapters again, I'm quite motivated to go back, make edits, and translate more chapters~ But uh, so there is _one_ sliiiight problem: the unfinished 65 draft is on a laptop in another state right now though, so I'm going to go ahead and do 66 and 67 first, oops. This is what I get for not using Google docs properly T_T I guess I could retranslate, but it'll drive me crazy when I can't figure out what I settled on in that draft. If you have been waiting, please expect new chapters in the next month~ Hopefully it'll be a good bulk update <3
