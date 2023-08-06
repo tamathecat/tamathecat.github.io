@@ -83,9 +83,9 @@ var store = [{
         "url": "/qizi/64",
         "teaser": null
       },{
-        "title": "vacation notice",
-        "excerpt":"Hello! It’s been a while. I’m still translating Qizi but it’s been slow ‘cause holidays &amp; planning for &amp; taking an overseas trip. I was hoping to wrap up the next two chapters before leaving for the trip, but alas. 65 is a bit long and still a WIP. I’ll...","categories": [],
+        "title": "qizi / 65",
+        "excerpt":"The long-awaited love course has finally arrived—— “Not at all! Who could possibly be looking forward to it!” shouted a Ling Xiao who had been forcefully driven off the training grounds, his face wrought with grievance. Today’s learning objective was to use a grade-1 elemental soul crystal. Originally, he and...","categories": [],
         "tags": [],
-        "url": "/qizi/notice",
+        "url": "/qizi/65",
         "teaser": null
       }]
